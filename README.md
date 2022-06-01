@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @me2527
+- 👋 Hi, I’m Aditi Dwivedi
 - 👀 I’m interested in learning and implementing.
 - 🌱 I’m currently learning data structures & algorithm.
 - 📫 How to reach me? https://www.linkedin.com/in/aditi-dwivedi-1b0ab11aa/
